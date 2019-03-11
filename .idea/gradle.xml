@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/base" />
+            <option value="$PROJECT_DIR$/base_rx" />
+            <option value="$PROJECT_DIR$/dictionaries" />
+            <option value="$PROJECT_DIR$/jnidictionaryv1" />
+            <option value="$PROJECT_DIR$/jnidictionaryv2" />
+            <option value="$PROJECT_DIR$/nextword" />
+            <option value="$PROJECT_DIR$/overlay" />
+            <option value="$PROJECT_DIR$/pixel" />
+            <option value="$PROJECT_DIR$/prefs" />
+            <option value="$PROJECT_DIR$/vaibhavmodule" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
